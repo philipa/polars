@@ -1,0 +1,17 @@
+August 2024
+
+I've made the following changes in the hope of improving the utility
+of the polars for passage planning.
+
+- Significantly reduced the upwind (40°, 45°, 50°) figures by 9-17%.
+  This should remove the ridiculous tacking angles that TimeZero and
+  PW have been proposing.
+
+- Reduced the 160° figures for white sails, and removed the use of the
+  furlex at 160°. The genoa and furlex are both significantly
+  blanketed between 155° and 170° (without hacks like poling out the
+  staysail to windward).
+
+- Removed the use of the furlex at 18kts, 70°, 90°.
+
+- Slightly increased some 180° values for the furlex.
