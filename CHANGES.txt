@@ -1,3 +1,12 @@
+June 2025
+
+- Increased the 50° and 70° for 14-30kts, and the 40°-70° figures for
+  4-6 kts, partly reverting the reduction from last August.
+
+- Reduced the 170° and 180° figures for 14-30kts by about 8%. The
+  previous values were good surfing in a following sea, but not flat
+  water. They may still be a little optimistic.
+
 August 2024
 
 I've made the following changes in the hope of improving the utility
